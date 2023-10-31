@@ -1,0 +1,200 @@
+*{
+    background-color: lightseagreen;
+    font-family: 'Inter', sans-serif;
+}
+
+.header{
+    position: absolute;
+    padding: -10px;
+    right: -1px;
+    width: 50%;
+    text-align: right;
+
+}
+
+.header li{
+    padding: 20px;
+    position: relative;
+    right: 80px;
+    display: inline-flex;
+    font-weight:500;
+    text-decoration: bold;
+}
+
+.content{
+    position: absolute;
+}
+
+.content h1{
+    position: relative;
+    right: -290px;
+    bottom: -90px;
+    font-weight: 700;
+}
+
+.content p{
+    position: relative;
+    right: -290px;
+    bottom: -120px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.content button{
+    background: white;
+    position: relative;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 1px;
+    border: 90px;
+    width: 100px;
+    font-weight: 700;
+    bottom: -180px;
+    right: -250px;
+}
+
+
+
+.right button{
+    background: white;
+    position: relative;
+    padding: 10px;
+    border-radius: 1px;
+    border: 90px;
+    width: 60px;
+    height: 40px;
+    font-weight: 500;
+    bottom: -210px;
+    right: -1220px;
+}   
+
+.left button{
+    background: white;
+    position: relative;
+    padding: 10px;
+    border-radius: 1px;
+    border: 90px;
+    width: 60px;
+    height: 40px;
+    font-weight: 500;
+    bottom: -160px;
+    left: -20px;
+}
+
+.right i{
+    background: white;
+}
+.left i{
+    background: white;
+}
+
+
+
+.pic{
+    position: absolute;
+    background-color:black;
+    width: 20%;
+    height: 50%;
+    padding: 20px;
+    left: 650px;
+    bottom: 60px;
+}
+
+.pic img{
+    width: 130%;
+    height: 120%;
+    margin-left: -80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
